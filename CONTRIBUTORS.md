@@ -69,4 +69,7 @@ This project exists because of your time, effort, and curiosity.
 - **GitHub:** https://github.com/ishanrajsingh
 - **About:** Passionate tech enthusiast , solving complex algorithmic problems. Skilled in writing clean, efficient code, and always learning the latest tools and best practices.
 
+- **Name:** Omdeep Masram
+- **GitHub:** https://github.com/omicoded19
+- **About:** Sophomore at IIITA. Want to learn to contribute. Cheers !
 
