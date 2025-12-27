@@ -80,3 +80,8 @@ This project exists because of your time, effort, and curiosity.
 - **Name:** Apoorv Mittal
 - **GitHub:** https://github.com/Apoorv012
 - **About:** Third-year B.Tech student in Computer Science. Passionate about Backend development"
+
+- **Name:** Rushal Verma
+- **GitHub:** https://github.com/Rushalverma
+- **About:** Sophomore at IIIT Allahabad (IIT2024045). Passionate about  ML, and Full Stack Development, Competitive Programming.
+
